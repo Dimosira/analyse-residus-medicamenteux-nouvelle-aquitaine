@@ -46,6 +46,21 @@ L’étude couvre :
 - Les profils de contamination varient selon les territoires, suggérant des dynamiques locales différenciées.
 - Les tendances temporelles montrent des fluctuations importantes des concentrations selon les années et les molécules surveillées.
 
+## Vue globale de la pollution pharmaceutique
+
+![Vue globale](images/vue-globale-pollution-pharmaceutique.png)
+
+---
+
+## Analyse départementale des résidus médicamenteux
+
+![Analyse départementale](images/analyse-departementale-residus-medicamenteux.png)
+
+---
+
+## Analyse communale des résidus médicamenteux
+
+![Analyse communale](images/analyse-communale-residus-medicamenteux.png)
   ## Impacts mesurables
 
 Le projet permet d’identifier rapidement les territoires présentant les concentrations les plus élevées de résidus médicamenteux en Nouvelle-Aquitaine.
@@ -71,3 +86,19 @@ Le dasboard facilite ainsi :
 - l’exploration interactive des données environnementales ;
 - l’identification des zones prioritaires ;
 - et l’aide à la décision pour la surveillance de la qualité des eaux.
+
+   ## Limites de l’analyse
+
+Plusieurs limites méthodologiques doivent être prises en compte dans l’interprétation des résultats :
+
+- Les fréquences d’échantillonnage sont irrégulières selon les années et les stations de surveillance ;
+- Certaines molécules ont bénéficié d’un nombre d’analyses plus important que d’autres en particulier le paracétamol;
+- Certaines périodes comportent plus de mesures exploitables par rapport d'autres;
+- Les données non quantifiables ou hors domaine de validité ont été exclues après nettoyage ;
+- La représentativité spatiale des stations varie selon les territoires étudiés.
+
+Ainsi, les tendances observées peuvent refléter :
+- des variations réelles de contamination ;
+- mais également des différences dans l’effort de surveillance environnementale.
+
+Les résultats doivent donc être interprétés avec prudence et non comme une évaluation réglementaire exhaustive de la qualité des eaux.
