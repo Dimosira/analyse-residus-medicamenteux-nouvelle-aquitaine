@@ -40,3 +40,18 @@ Après nettoyage des données :
 - seules les mesures quantitatives exploitables ont été conservées.
 
 La base finale a ensuite été exportée pour l’analyse et la visualisation sous Power BI.
+
+## Accès aux données
+
+Les données utilisées dans ce projet proviennent de la base nationale NAIADES dédiée au suivi de la qualité des eaux de surface.
+
+### Jeux de données utilisés
+- Base analyses des concentrations
+- Base stations de surveillance
+- Documentation des variables et métadonnées
+- Base finale consolidée après nettoyage et fusion sous Python
+
+Téléchargement des données :
+[Accéder aux données du projet](https://drive.google.com/drive/folders/1GcUvx6RXx2SQ1tzLdt6da-_azr3hO-wn?usp=sharing)
+
+
